@@ -1,6 +1,6 @@
 <img src="img.gif"  width="100%">
 <h1 align="center">Hi 👋, I'm Harshana Bandara</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
+<h3 align="center">A passionate full stack developer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshana456&label=Profile%20views&color=0e75b6&style=flat" alt="harshana456" /> </p>
 
